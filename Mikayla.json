@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://i.gyazo.com/6a99d4eef33a5ab6a896e53b41d57003.jpg",
+        "number": 1,
+        "categories": [2],
+        "type": "image"
+    },
+    {
+        "url": "https://i.gyazo.com/98f29a84ee4ea1c301e052023f2ced04.jpg",
+        "number": 2,
+        "categories": [9],
+        "type": "image"
+    },
+    {
+        "url": "https://i.gyazo.com/3727e70457cf79e81913362132dab07c.jpg",
+        "number": 3,
+        "categories": [9, 10],
+        "type": "image"
+    },
+    {
+        "url": "https://i.gyazo.com/cf672b2fa993bb2c430870cbc403cec6.jpg",
+        "number": 4,
+        "categories": [9, 0],
+        "type": "image"
+    }
+]
