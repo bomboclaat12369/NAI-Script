@@ -20,73 +20,7 @@
     {
         "url": "https://i.gyazo.com/cf672b2fa993bb2c430870cbc403cec6.jpg",
         "number": 4,
-        "categories": [2, 8, 12, 0],
-        "type": "image"
-    },
-    {
-        "url": "https://i.gyazo.com/e49ecafe4b73ed77e20f467751490cfa.jpg",
-        "number": 5,
-        "categories": [1, 4],
-        "type": "image"
-    },
-    {
-        "url": "https://i.gyazo.com/50f03d5c4fbb5b5af9fad4a17ef4ca03.jpg",
-        "number": 6,
-        "categories": [1, 4],
-        "type": "image"
-    },
-    {
-        "url": "https://i.gyazo.com/8147272ab1e1e0c019647f43d1ee9f5b.jpg",
-        "number": 7,
-        "categories": [2, 10],
-        "type": "image"
-    },
-    {
-        "url": "https://i.gyazo.com/9979c7b25fdbd3c170b3e8011fee34fb.jpg",
-        "number": 8,
-        "categories": [1, 6],
-        "type": "image"
-    },
-    {
-        "url": "https://i.gyazo.com/36a4a3510dfdf883119d6354dafd8e00.jpg",
-        "number": 9,
-        "categories": [1, 4],
-        "type": "image"
-    },
-    {
-        "url": "https://i.gyazo.com/64824540fae82059724ec406b3831045.jpg",
-        "number": 10,
-        "categories": [2, 8],
-        "type": "image"
-    },
-    {
-        "url": "https://i.gyazo.com/5911102cb9fe236af1dbfb8ffdebde15.jpg",
-        "number": 11,
-        "categories": [2, 7],
-        "type": "image"
-    },
-    {
-        "url": "https://i.gyazo.com/8f3011ca17add7142f760c3a0697820a.jpg",
-        "number": 12,
-        "categories": [2, 4],
-        "type": "image"
-    },
-    {
-        "url": "https://i.gyazo.com/00e3803ab5a8481ed553a306b88d1fd7.jpg",
-        "number": 13,
-        "categories": [1, 5],
-        "type": "image"
-    },
-    {
-        "url": "https://i.gyazo.com/2705e14fb2bcfc5c7ffda4196b5c4804.jpg",
-        "number": 14,
-        "categories": [2, 9],
-        "type": "image"
-    },
-    {
-        "url": "https://i.gyazo.com/1010d1596887f4732aa16b05178aa370.jpg",
-        "number": 15,
-        "categories": [2, 5],
+        "categories": [0, 2, 8, 12],
         "type": "image"
     }
 ]
