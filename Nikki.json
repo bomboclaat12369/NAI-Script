@@ -90,12 +90,6 @@
         "type": "image"
     },
     {
-        "url": "https://pbs.twimg.com/media/GWVGEt1bQAIdYNW.jpg:large",
-        "number": 17,
-        "categories": [2],
-        "type": "image"
-    },
-    {
         "url": "https://pbs.twimg.com/media/GeVXjAfXcAAVvHY.jpg:large",
         "number": 18,
         "categories": [5, 6],
@@ -110,12 +104,6 @@
     {
         "url": "https://pbs.twimg.com/media/FqCHpquWIAAK9vw.jpg:large",
         "number": 20,
-        "categories": [7],
-        "type": "image"
-    },
-    {
-        "url": "https://simp4.jpg5.su/Screenshot_20230104_015540_Samsung-Internet56890d7c784ef34e.jpg",
-        "number": 21,
         "categories": [7],
         "type": "image"
     },
@@ -249,12 +237,6 @@
         "url": "https://i.gyazo.com/83f5fb186e89a8cfecf6f7ee9b0aba0a.jpg",
         "number": 44,
         "categories": [4],
-        "type": "image"
-    },
-    {
-        "url": "https://i.gyazo.com/c81fdcaa76709482194e149141c36335.jpg",
-        "number": 45,
-        "categories": [2],
         "type": "image"
     },
     {
@@ -725,12 +707,6 @@
         "url": "https://i.gyazo.com/45c21211534471ae7b6b014550c75dff.jpg",
         "number": 119,
         "categories": [4],
-        "type": "image"
-    },
-    {
-        "url": "https://i.gyazo.com/9e3bbd1751af160693234ba6db8e92d6.jpg",
-        "number": 120,
-        "categories": [5],
         "type": "image"
     },
     {
