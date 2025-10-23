@@ -146,7 +146,7 @@
     {
         "url": "https://i.gyazo.com/3478c259b33440dc7769012aeb4fe67f.jpg",
         "number": 25,
-        "categories": [1],
+        "categories": [1, 3],
         "type": "image"
     }
 ]
