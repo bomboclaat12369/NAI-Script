@@ -14,13 +14,13 @@
     {
         "url": "https://i.gyazo.com/3727e70457cf79e81913362132dab07c.jpg",
         "number": 3,
-        "categories": [2, 9],
+        "categories": [2, 9, 8],
         "type": "image"
     },
     {
         "url": "https://i.gyazo.com/cf672b2fa993bb2c430870cbc403cec6.jpg",
         "number": 4,
-        "categories": [2, 12, 0],
+        "categories": [2, 12, 0, 8],
         "type": "image"
     },
     {
@@ -38,7 +38,7 @@
     {
         "url": "https://i.gyazo.com/8147272ab1e1e0c019647f43d1ee9f5b.jpg",
         "number": 7,
-        "categories": [2, 10],
+        "categories": [2, 10, 8],
         "type": "image"
     },
     {
@@ -92,7 +92,7 @@
     {
         "url": "https://i.gyazo.com/0f262d4301fd97d475adde0bf3a4ca2a.jpg",
         "number": 16,
-        "categories": [2, 0],
+        "categories": [2, 0, 8],
         "type": "image"
     },
     {
