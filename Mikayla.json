@@ -159,13 +159,13 @@
     {
         "url": "https://i.gyazo.com/b338afaae853d75c68d40c0a720325f3.jpg",
         "number": 27,
-        "categories": [11],
+        "categories": [2, 11],
         "type": "image"
     },
     {
         "url": "https://i.gyazo.com/687498c939c6c9494fb1f58ef0a65652.jpg",
         "number": 28,
-        "categories": [11, 6],
+        "categories": [2, 11, 6],
         "type": "image"
     },
     {
@@ -177,19 +177,19 @@
     {
         "url": "https://i.gyazo.com/13fedd11fc37cf2c4b87e0576269ff09.jpg",
         "number": 30,
-        "categories": [11, 6],
+        "categories": [2, 11, 6],
         "type": "image"
     },
     {
         "url": "https://i.gyazo.com/350f2bc2caa5167dcbb81c28ab5b12cb.jpg",
         "number": 31,
-        "categories": [11],
+        "categories": [2, 11],
         "type": "image"
     },
     {
         "url": "https://i.gyazo.com/a190769fa21017eff43461a17c72db58.jpg",
         "number": 32,
-        "categories": [9, 8],
+        "categories": [2, 9, 8],
         "type": "image"
     },
     {
@@ -201,17 +201,17 @@
     {
         "url": "https://i.gyazo.com/7147dff2ca9795ca18709cd96d84af94.jpg",
         "number": 34,
-        "categories": [10, 8],
+        "categories": [2, 10, 8],
         "type": "image"
     },
     {
         "url": "https://i.gyazo.com/14d3787af7a9669a6dccf5bcf4f565c9.jpg",
         "number": 35,
-        "categories": [3],
+        "categories": [1, 3],
         "type": "image"
     },
     {
-        "url": "https://i.gyazo.com/8b00cfadfc6920eef5b75cfdad17d438.jpg",
+        "url": "https://i.gyazo.com/c4918a334e4b57773051bd1f178df6e0.jpg",
         "number": 36,
         "categories": [1, 10, 4, 0],
         "type": "image"
@@ -225,25 +225,25 @@
     {
         "url": "https://i.gyazo.com/a3675c462f09110cab948492e2633af0.jpg",
         "number": 38,
-        "categories": [12],
+        "categories": [2, 12],
         "type": "image"
     },
     {
         "url": "https://i.gyazo.com/0d22c067ea116ef64658187d658ca294.jpg",
         "number": 39,
-        "categories": [12],
+        "categories": [2, 12],
         "type": "image"
     },
     {
         "url": "https://i.gyazo.com/46dc2b4d0485a84af7edf7f24fb000c3.jpg",
         "number": 40,
-        "categories": [3],
+        "categories": [1, 3],
         "type": "image"
     },
     {
         "url": "https://i.gyazo.com/f56b72d02585a2b44161662ccd988cb4.jpg",
         "number": 41,
-        "categories": [8],
+        "categories": [2, 8],
         "type": "image"
     }
 ]
