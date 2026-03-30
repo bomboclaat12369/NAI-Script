@@ -14,7 +14,7 @@
 {
 "url": "https://i.gyazo.com/3727e70457cf79e81913362132dab07c.jpg",
 "number": 3,
-"categories": [2, 9, 8],
+"categories": [2, 9, 8, 7],
 "type": "image"
 },
 {
@@ -38,7 +38,7 @@
 {
 "url": "https://i.gyazo.com/8147272ab1e1e0c019647f43d1ee9f5b.jpg",
 "number": 7,
-"categories": [2, 10, 8],
+"categories": [2, 10, 8, 7],
 "type": "image"
 },
 {
@@ -110,13 +110,13 @@
 {
 "url": "https://i.gyazo.com/fc1a96c84c65cee88157928dc0d271d9.jpg",
 "number": 19,
-"categories": [2, 10],
+"categories": [2, 10, 7],
 "type": "image"
 },
 {
 "url": "https://i.gyazo.com/15430e92bcbf7eaad66ece590b65cc83.jpg",
 "number": 20,
-"categories": [2, 10],
+"categories": [2, 10, 7],
 "type": "image"
 },
 {
@@ -159,13 +159,13 @@
 {
 "url": "https://i.gyazo.com/b338afaae853d75c68d40c0a720325f3.jpg",
 "number": 27,
-"categories": [2, 11],
+"categories": [2, 11, 7],
 "type": "image"
 },
 {
 "url": "https://i.gyazo.com/687498c939c6c9494fb1f58ef0a65652.jpg",
 "number": 28,
-"categories": [2, 11, 6],
+"categories": [2, 11, 6, 7],
 "type": "image"
 },
 {
@@ -177,19 +177,19 @@
 {
 "url": "https://i.gyazo.com/13fedd11fc37cf2c4b87e0576269ff09.jpg",
 "number": 30,
-"categories": [2, 11, 6],
+"categories": [2, 11, 6, 7],
 "type": "image"
 },
 {
 "url": "https://i.gyazo.com/350f2bc2caa5167dcbb81c28ab5b12cb.jpg",
 "number": 31,
-"categories": [2, 11],
+"categories": [2, 11, 7],
 "type": "image"
 },
 {
 "url": "https://i.gyazo.com/a190769fa21017eff43461a17c72db58.jpg",
 "number": 32,
-"categories": [2, 9, 8],
+"categories": [2, 9, 8, 7],
 "type": "image"
 },
 {
@@ -201,7 +201,7 @@
 {
 "url": "https://i.gyazo.com/7147dff2ca9795ca18709cd96d84af94.jpg",
 "number": 34,
-"categories": [2, 10, 8],
+"categories": [2, 10, 8, 7],
 "type": "image"
 },
 {
@@ -213,7 +213,7 @@
 {
 "url": "https://i.gyazo.com/c4918a334e4b57773051bd1f178df6e0.jpg",
 "number": 36,
-"categories": [1, 10, 4, 0],
+"categories": [1, 10, 4, 0, 7],
 "type": "image"
 },
 {
